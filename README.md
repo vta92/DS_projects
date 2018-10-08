@@ -6,3 +6,5 @@ data science projects profile
 3. Added music_database analysis with more sqlite3 query.
 4. Adding a project with Fandango Bias Movie rating system.
 5. Added a project in which we analyze the elearning platform data for product advertisement.
+6. Added a project with car prices prediction using knn and linear regression with bootstrapping.
+7. Adding a project with housing project prediction

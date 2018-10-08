@@ -5,3 +5,4 @@ data science projects profile
 2. Added CIA world factbook with some sqlite3 query practices.
 3. Added music_database analysis with more sqlite3 query.
 4. Adding a project with Fandango Bias Movie rating system.
+5. Added a project in which we analyze the elearning platform data for product advertisement.
