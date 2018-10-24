@@ -9,3 +9,4 @@ data science projects profile
 6. Added a project with car prices prediction using knn and linear regression with bootstrapping.
 7. Adding a project with housing project prediction (paused)
 8. Adding a project of bike rentals prediction using multiple machine learning techniques.
+9. Adding a project of lending club loan approval prediction

@@ -7,4 +7,5 @@ data science projects profile
 4. Adding a project with Fandango Bias Movie rating system.
 5. Added a project in which we analyze the elearning platform data for product advertisement.
 6. Added a project with car prices prediction using knn and linear regression with bootstrapping.
-7. Adding a project with housing project prediction
+7. Adding a project with housing project prediction (paused)
+8. Adding a project of bike rentals prediction using multiple machine learning techniques.
