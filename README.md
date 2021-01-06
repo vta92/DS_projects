@@ -11,3 +11,4 @@ data science projects profile
 8. Adding a project of bike rentals prediction using multiple machine learning techniques.
 9. Adding a project of lending club loan approval prediction
 10. Added a CNN project to predict bee's health based on given bees images using multiple techniques such as image augmentation, proportional sampling
+11. Added Airbnb project to predict listing prices based on rental features using as well as doing EDA on it.
