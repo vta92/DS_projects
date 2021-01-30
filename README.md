@@ -12,3 +12,4 @@ data science projects profile
 9. Adding a project of lending club loan approval prediction
 10. Added a CNN project to predict bee's health based on given bees images using multiple techniques such as image augmentation, proportional sampling
 11. Added Airbnb project to predict listing prices based on rental features using as well as doing EDA on it.
+12. Added the UCDP death conflicts being driven by global warming (CRU) analysis. To see if there's relationship between the two.
